@@ -40,5 +40,6 @@ Implemented a Gradio web interface for users to draw digits and get real-time pr
 
 
 prepeard by moaz mohamed
+
 [linkedin](https://www.linkedin.com/in/moaz-mohamed-545725375/)
 
